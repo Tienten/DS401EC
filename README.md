@@ -21,16 +21,17 @@ This repo has material of my course course on Data Science 2023.
 Enclosed is supplementary material. I'll endeavor to compile all references; kindly flag any omissions of papers, repositories, or slides. I'm enthusiastic to incorporate your content into my documentation.
 
 Extra material: 
-[Harvard CS50’s Introduction to Programming with Python – Full University Course ](https://tinyurl.com/2pa4f3k5)
 
-[Introduction to Data Science with Python](https://pll.harvard.edu/course/introduction-data-science-python)
+- [Harvard CS50’s Introduction to Programming with Python – Full University Course ](https://tinyurl.com/2pa4f3k5)
+
+- [Introduction to Data Science with Python](https://pll.harvard.edu/course/introduction-data-science-python)
 
 <!-- []() -->
 
 ## 2. Folders <a name = folders></a>
 ### Students folder
 Please use this folder to put your a clone/copy of your own repository.
-[students repo](https://github.com/Earlham-College/DS401EC/tree/main/data)
+[students repo](https://github.com/Earlham-College/DS401EC/tree/main/students)
 
 
 # References <a name="references"></a>
